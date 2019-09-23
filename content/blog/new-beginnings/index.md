@@ -1,5 +1,5 @@
 ---
-title: New Beginnings
+title: Sample Markdown blog post
 date: "2015-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
@@ -11,6 +11,8 @@ Duden flows by their place and supplies it with the necessary regelialia.
 
 ## On deer horse aboard tritely yikes and much
 
+
+([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
 The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
@@ -45,6 +47,8 @@ an almost unorthographic life One day however a small line of blind text by the
 name of Lorem Ipsum decided to leave for the far World of Grammar.
 
 ### According a funnily until pre-set or arrogant well cheerful
+
+![Map](shoshone.jfif)
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
