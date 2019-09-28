@@ -96,9 +96,6 @@ Not a ton of room on either boat for gear.  Pack only what you need.  I was thin
 *   Extra line (dyneema)
 *   PFDs
 *   Tie wire
-*   ~~Fix shock cord on daggerboard~~
-*   ~~Fix jib cleat~~
-*   ~~Fix traveler spring~~
 *   Extra plug
 *   Pack raft for towing gear?
 *   Line for towing pack raft
