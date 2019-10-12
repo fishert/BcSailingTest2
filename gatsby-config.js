@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Backcountry Sailing`,
-    author: `Ted Fisher`,
+    author: `Ted and Lance Fisher`,
     description: `Sailing in the rocky mountains`,
     siteUrl: `https://backcountrysailing.com`,
     social: {
